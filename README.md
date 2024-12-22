@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/diego-nascimento-182904179/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -11,19 +11,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/C5112AQGl-Nn4157MuQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520133924728?e=2147483647&v=beta&t=nhKy0FO8_t72dYDCLa9L1k43GPWteukbL054mVEl_U0"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://brasiliadashboard.com.br/wp-content/uploads/2024/04/EXCEL-Excel-FABRIDATA-1.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/6697e5d70e6b50dbe5bbe3dd_6697e36f9a2e61c3f9a3c850_SQL.jpeg"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego-Analista&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-Analista&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
