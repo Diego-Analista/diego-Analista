@@ -1,22 +1,11 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/RjVfbmZ/Beige-Minimalist-Personal-Business-Linked-In-Banner.gif"  />
+  <img height="200" src="https://i.ibb.co/sJ77YLT/DADOS-Linked-In-Banner.gif"  />
 </div>
 
 ###
 
 <p align="center">ANALISTA DE POWER BI / EXCEL / SQL<br><br>Estou em transição de carreira para trabalhar como ANALISTA DE BI, me qualificando através de cursos na DNC. Hoje trabalho como OPERADOR DE MÁQUINA, na GREE, no Distrito Industrial de Manaus. Com essa bagagem, estou preparado para oferecer suporte eficiente à equipe, com ética e profissionalismo. Minha trajetória combina experiência em PSICOLOGIA que é minha área de graduação. Atuei no acolhimento psicológico, desenvolvendo projetos interventivos.</p>
 
-###
-
-<p align="center">FERRAMENTAS</p>
-
-###
-
-<div align="CENTER">
-  <img height="200" src="https://i.ibb.co/TPVv8nq/icone-bi.gif"  />
-  <img height="200" src="https://i.ibb.co/NZd2DnY/icone-bi-1.gif"  />
-  <img height="200" src="https://i.ibb.co/MkwFF5x/icone-bi-2.gif"  />
-</div>
 
 ###
 
