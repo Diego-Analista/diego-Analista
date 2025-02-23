@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">ANALISTA DE POWER BI / EXCEL / SQL<br><br>Estou em transição de carreira para trabalhar como ANALISTA DE BI, me qualificando através de cursos na DNC. Hoje trabalho como OPERADOR DE MÁQUINA, na GREE, no Distrito Industrial de Manaus. Com essa bagagem, estou preparado para oferecer suporte eficiente à equipe, com ética e profissionalismo. Minha trajetória combina experiência em PSICOLOGIA que é minha área de graduação. Atuei no acolhimento psicológico, desenvolvendo projetos interventivos.</p>
+<p align="center">ANALISTA DE POWER BI / EXCEL / SQL<br><br>Estou em transição de carreira para trabalhar como ANALISTA DE BI, me qualificando através de cursos na DNC. Hoje trabalho como ALMOXARIFE I, na GREE, no Distrito Industrial de Manaus. Com essa bagagem, estou preparado para oferecer suporte eficiente à equipe, com ética e profissionalismo. Minha trajetória combina experiência em PSICOLOGIA que é minha área de graduação. Atuei no acolhimento psicológico, desenvolvendo projetos interventivos.</p>
 
 
 ###
