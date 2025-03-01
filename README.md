@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">ANALISTA DE POWER BI / EXCEL / SQL<br><br>Estou em transição de carreira para trabalhar como ANALISTA DE BI, me qualificando através de cursos na DNC. Hoje trabalho como ALMOXARIFE I, na GREE, no Distrito Industrial de Manaus. Com essa bagagem, estou preparado para oferecer suporte eficiente à equipe, com ética e profissionalismo. Minha trajetória combina experiência em PSICOLOGIA que é minha área de graduação. Atuei no acolhimento psicológico, desenvolvendo projetos interventivos.</p>
+<p align="center">ANALISTA DE POWER BI / EXCEL / SQL<br><br>Sou formado em psicologia pela faculdade Wyden - Martha Falcão, durante minha jornada na Psicologia, desenvolvi habilidades analíticas, pensamento estratégico e uma paixão por entender padrões e otimizar processos. Agora, estou em transição para a área de Análise de Dados, focado no Power BI, Excel e linguagens de programação para transformar dados em insights. Gosto de explorar o tratamento de dados, criar visualizações, dashboards impactantes e ajudar na tomada de decisões estratégicas. Com um olhar atento para tendências e melhorias, estou sempre buscando novas formas de conectar números a soluções que impactam os resultados das empresas. 🚀📊</p>
 
 
 ###
